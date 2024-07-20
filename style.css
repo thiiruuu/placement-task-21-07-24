@@ -43,6 +43,6 @@ ol{
     display: flex;
     flex-direction: column;
     justify-content: center;
-  
+  color: white;
     gap: 9px;
 }
